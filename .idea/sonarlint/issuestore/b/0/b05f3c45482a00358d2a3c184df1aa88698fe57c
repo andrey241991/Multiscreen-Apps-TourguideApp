@@ -1,0 +1,4 @@
+
+”squid:S1319"qThe type of the "places" object should be an interface such as "List" rather than the implementation "ArrayList".(±ØÈßýÿÿÿÿ8„µ’¤ë,
+xsquid:S1488""ZImmediately return this expression instead of assigning it to the temporary variable "vh".(¶¨¾æ8„µ’¤ë,
+5squid:S21764"Rename this class.(Â×žÖúÿÿÿÿ8„µ’¤ë,

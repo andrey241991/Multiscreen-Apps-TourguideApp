@@ -1,0 +1,6 @@
+
+“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Å×¨¼ÿÿÿÿÿ8ÞŠ¦‡ë,
+“squid:S1319
+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(òÕ’Øùÿÿÿÿ8ÞŠ¦‡ë,
+]squid:S1118":Add a private constructor to hide the implicit public one.(Ë¦Õƒùÿÿÿÿ8ÞŠ¦‡ë,
+“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ó‹êùÿÿÿÿÿ8ÞŠ¦‡ë,
